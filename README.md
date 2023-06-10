@@ -76,11 +76,11 @@ In order to run this project in your machine you need to install these Dependenc
 
   .Run the following code to clone the repository to your desired folder:
 
-   git clone git@github.com:Isaac-ej/Youtube-video-player.git
+   git clone git@github.com:Isaac-ej/Video-player.git
 
   .Run the following command to move to your cloned folder
 
-  cd git@github.com:Isaac-ej/Youtube-video-player.git
+  cd git@github.com:Isaac-ej/Video-player.git
 
 ### Install
 
@@ -122,7 +122,7 @@ This Project will enable the user to interact with the UI and Play Youtube video
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Isaac-ej/Youtube-video-player/issues).
+Feel free to check the [issues page](https://github.com/Isaac-ej/Video-player/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
