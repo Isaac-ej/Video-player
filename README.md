@@ -92,8 +92,6 @@ In order to run this project in your machine you need to install these Dependenc
 
 opening the project by launching the Live Server plugin in visual studio code or any other means that you know.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -105,8 +103,6 @@ opening the project by launching the Live Server plugin in visual studio code or
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ejama-isaac-bab607267/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features">
@@ -114,7 +110,6 @@ This Project will enable the user to interact with the UI and Play Youtube video
  shorts clips
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -124,7 +119,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Isaac-ej/Video-player/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -132,7 +126,6 @@ Feel free to check the [issues page](https://github.com/Isaac-ej/Video-player/is
 
 If you like this project Support Us!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
